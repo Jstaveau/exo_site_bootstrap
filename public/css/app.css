@@ -17236,4 +17236,13 @@ textarea.form-control-lg {
   font-weight: bold;
 }
 
+footer {
+  height: 300px;
+}
+@media (max-width: 768px) {
+  footer {
+    height: 400px;
+  }
+}
+
 /*# sourceMappingURL=app.css.map */
